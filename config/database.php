@@ -68,10 +68,10 @@ return [
 
         'sqlsrv' => [
             'driver' => 'sqlsrv',
-            'host' => env('DB_HOST', '192.168.1.102'),
+            'host' => env('DB_HOST', ''),
             'database' => env('DB_DATABASE', 'KISM_PORTAL_DEV'),
-            'username' => env('DB_USERNAME', 'dev'),
-            'password' => env('DB_PASSWORD', 'd@v20!6'),
+            'username' => env('DB_USERNAME', ''),
+            'password' => env('DB_PASSWORD', ''),
             'charset' => 'utf8',
             'prefix' => '',
         ]
