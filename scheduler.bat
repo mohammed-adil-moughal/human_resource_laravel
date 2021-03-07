@@ -1,0 +1,1 @@
+schtasks /Create  /SC MINUTE /MO 1 /TN KISMPORTAL /TR "cd /d %~dp0 & php artisan schedule:run" 

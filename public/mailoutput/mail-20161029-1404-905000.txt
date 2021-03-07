@@ -1,0 +1,8 @@
+To: briankeyonzo@yahoo.com
+Subject: Testing
+From: brian.keyonzo@kinetics.co.ke
+
+The mail message was sent with the following mail setting:
+SMTP = aspmx.l.google.com
+smtp_port = 25
+sendmail_from = YourMail@address.com
